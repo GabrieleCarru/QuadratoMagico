@@ -8,7 +8,7 @@ public class RisolviQuadrato {
 	private int N2 ; // numero di caselle (N^2)
 	private int magica ; // costante magica
 	
-	private List<List<Integer>> soluzioni;
+	private List<List<Integer>> soluzioni; 
 	
 	public RisolviQuadrato (int N){
 		this.N = N;
